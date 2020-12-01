@@ -26,4 +26,4 @@ La abstracción de generalización es muy importante en el modelo de objetos, po
 
 Si se hace un análisis más minucioso de los objetos del mundo real, se puede constatar que muchos de estos objetos. Así, un objeto de la clase COMPUTADOR esta formado por objetos de las clases TARJETA MADRE, MICROPROCESADOR, MEMORIAS, etc. Luego la abstracción de agregación es la representación del **"todo y sus partes"**.
 
-
+![Ejemplo de Abstracción de agregación](./img/tarea.PNG)
